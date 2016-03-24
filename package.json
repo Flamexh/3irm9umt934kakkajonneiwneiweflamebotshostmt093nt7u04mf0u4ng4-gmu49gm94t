@@ -1,0 +1,34 @@
+{
+  "name": "Break Bot",
+  "version": "4.0.0",
+  "description": "That bots is best on spectate",
+  "main": "breakbot.js",
+  "dependencies": {
+    "agario-client": "latest",
+    "https-proxy-agent": "latest",
+    "ws": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "socks": "latest",
+    "fs-extra": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreakAgar/breakbot.git"
+  },
+  "keywords": [
+    "break",
+    "bot",
+    "v4"
+  ],
+  "author": "Break",
+  "license": "MIT",
+  "bugs": {
+    "url": "http://breakbots.blogspot.com.br/"
+  },
+  "homepage": "http://breakbots.blogspot.com.br/"
+}
